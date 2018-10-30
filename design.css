@@ -1,0 +1,328 @@
+<style>
+.container{
+height:40;
+width:400px;
+background:black;
+	
+}
+.col-grid{
+background:black;
+height:50px;
+width:400px;
+bottom:0px;
+position:relative;
+}
+.grid1{
+height:50px;
+width:50px;
+background: white;
+position:relative;
+left:0px;
+bottom:0px;
+}
+.grid2{
+height:50px;
+width:50px;
+background: blue;
+position:relative;
+left:50px;
+bottom:50px;
+}
+
+.grid3{
+height:50px;
+width:50px;
+background: yellow;
+position:relative;
+left:100px;
+bottom:100px;	
+}
+
+.grid4{
+height:50px;
+width:50px;
+background: red;
+position:relative;
+left:150px;
+bottom:150px;	
+}
+
+.grid5{
+height:50px;
+width:50px;
+background: green;
+position:relative;
+left:200px;
+bottom:200px;	
+}
+
+.grid6{
+height:50px;
+width:50px;
+background: orange;
+position:relative;
+left:250px;
+bottom:250px;	
+}		
+
+.grid7{
+height:50px;
+width:50px;
+background: brown;
+position:relative;
+left:300px;
+bottom:300px;	
+}
+
+.grid8{
+height:50px;
+width:50px;
+background: aqua;
+position:relative;
+left:350px;
+bottom:350px	
+}
+		
+#controller{
+height:50px;
+width:50px;
+position:relative;
+
+}
+
+#controller1{
+height:50px;
+width:50px;
+position:relative;
+background-size: cover;
+background-image:none;
+
+
+}
+				
+#controller2{
+height:50px;
+width:50px;
+position:relative;
+background-size: cover;
+background-image:none;
+}
+		
+#controller3{
+height:50px;
+width:50px;
+position:relative;
+background-size: cover;
+background-image:none;
+
+}
+		
+#controller4{
+height:50px;
+width:50px;
+position:relative;
+background-size: cover;
+background-image:none;
+
+}
+		
+#controller5{
+height:50px;
+width:50px;
+position:relative;
+background-size: cover;
+background-image:none;
+
+}
+		
+#controller6{
+height:50px;
+width:50px;
+position:relative;
+background-size: cover;
+background-image:none;
+
+}
+		
+#controller7{
+height:50px;
+width:50px;
+position:relative;
+background-size: cover;
+background-image:none;
+
+}
+		
+#controller8{
+height:50px;
+width:50px;
+position:relative;
+background-size: cover;
+background-image:none;
+
+}
+
+#fire1{
+width: 5px;
+height: 15px;
+position: absolute;
+background-color: yellow;
+left:22px;
+bottom:50px;
+display:none;
+
+
+
+}
+
+#fire2{
+width: 5px;
+height: 15px;
+position: absolute;
+background-color: yellow;
+left:22px;
+bottom:50px;
+display:none;
+
+}
+		
+#fire3{
+width: 5px;
+height: 15px;
+position: absolute;
+background-color: yellow;
+left:22px;
+bottom:50px;
+display:none;
+
+}
+		
+#fire4{
+width: 5px;
+height: 15px;
+position: absolute;
+background-color: yellow;
+left:22px;
+bottom:50px;
+display:none;
+
+}
+		
+#fire5{
+width: 5px;
+height: 15px;
+position: absolute;
+background-color: yellow;
+left:22px;
+bottom:50px;
+display:none;
+
+
+}
+
+#fire6{
+width: 5px;
+height: 15px;
+position: absolute;
+background-color: yellow;
+left:22px;
+bottom:50px;
+display:none;
+
+}
+		
+#fire7{
+width: 5px;
+height: 15px;
+position: absolute;
+background-color: yellow;
+left:22px;
+bottom:50px;
+display:none;
+
+}
+		
+#fire8{
+width: 5px;
+height: 15px;
+position: absolute;
+background-color: yellow;
+left:22px;
+bottom:50px;
+display:none;
+
+}
+
+	
+#enemy1{
+width: 50px;
+height: 50px;
+position: absolute;
+background-color: black;
+display:block;
+top:8px;
+}
+#enemy2{
+width: 50px;
+height: 50px;
+position: absolute;
+background-color: black;
+display:block;
+top:8px;
+left:58px;
+}
+#enemy3{
+width: 50px;
+height: 50px;
+position: absolute;
+background-color: black;
+display:block;
+top:8px;
+left:108px;
+}
+#enemy4{
+width: 50px;
+height: 50px;
+position: absolute;
+background-color: black;
+display:block;
+top:8px;
+left:158px;	
+}
+#enemy5{
+width: 50px;
+height: 50px;
+position: absolute;
+background-color: black;
+display:block;
+top:8px;
+left:208px;	
+}
+#enemy6{
+width: 50px;
+height: 50px;
+position: absolute;
+background-color: black;
+display:block;
+top:8px;
+left:258px;	
+}
+#enemy7{
+width: 50px;
+height: 50px;
+position: absolute;
+background-color: black;
+display:block;
+top:8px;
+left:308px;	
+}
+#enemy8{
+width: 50px;
+height: 50px;
+position: absolute;
+background-color: black;
+display:block;
+top:8px;
+left:358px;	
+}
+</style>
